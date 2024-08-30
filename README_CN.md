@@ -38,6 +38,7 @@ Minions | ![](./stickers/Minions/AgAD6BYAAv2LEEo.webp) | ![](./stickers/Minions/
 PeopleMemes | ![](./stickers/PeopleMemes/AgADfRMAAqN3qEs.webp) | ![](./stickers/PeopleMemes/AgADgxgAAstUsEo.webp) | ![](./stickers/PeopleMemes/AgADgRUAAuvgUUg.webp) | ![](./stickers/PeopleMemes/AgADcRgAAmAswEg.webp) | ![](./stickers/PeopleMemes/AgADzxkAAiUBwEg.webp) |
 RickAndMorty | ![](./stickers/RickAndMorty/AgADMgMAArVx2gY.webp) | ![](./stickers/RickAndMorty/AgADKAMAArVx2gY.webp) | ![](./stickers/RickAndMorty/AgADLQMAArVx2gY.webp) | ![](./stickers/RickAndMorty/AgADNQMAArVx2gY.webp) | ![](./stickers/RickAndMorty/AgADOQMAArVx2gY.webp) |
 StarPatrick | ![](./stickers/StarPatrick/AgAD1wADlp-MDg.webp) | ![](./stickers/StarPatrick/AgAD2wADlp-MDg.webp) | ![](./stickers/StarPatrick/AgAD3wADlp-MDg.webp) | ![](./stickers/StarPatrick/AgAD4gADlp-MDg.webp) | ![](./stickers/StarPatrick/AgADyQADlp-MDg.webp) |
+UtyaDuck | ![](./stickers/UtyaDuck/AgAD2gEAAladvQo.webp) | ![](./stickers/UtyaDuck/AgAD9QADVp29Cg.webp) | ![](./stickers/UtyaDuck/AgADSwIAAladvQo.webp) | ![](./stickers/UtyaDuck/AgADCAEAAladvQo.webp) | ![](./stickers/UtyaDuck/AgADDgEAAladvQo.webp) |
 
 ----
 以下这些贴纸是从互联网上找到的。
@@ -89,4 +90,12 @@ function getImgSrc (html) {
 
 # 演示视频
 
-https://github.com/user-attachments/assets/d95b53a1-2e47-4c05-9751-04ade7eb4bd4
+https://github.com/user-attachments/assets/b874961e-95dd-4ccc-8c80-b0e95e727132
+
+
+# 脚本
+`tool.py` 可以帮你将表情添加到 OwO.min.json，如果你想自行添加的话。
+你需要在脚本中修改的属性：`emoji_name`, `folder`, `cdn_url`, `owo_json_url`, `append_after`, `need_compress`
+
+我在脚本中的这些属性的注释中用两种语言写了注释，你可以阅读它以获取更多信息。
+代码：[tool.py](./tool.py)
