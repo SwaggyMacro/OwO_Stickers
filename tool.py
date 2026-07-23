@@ -7,7 +7,7 @@ import os
 
 # the emoji name, will be the name of the new emoji in the JSON
 # 表情包的名字，将会是新表情包的名字
-emoji_name = "哈利波特"
+emoji_name = "红星小狗"
 
 # the emoji data structure
 # 表情包的数据结构
@@ -16,7 +16,7 @@ emoji_data = json.loads(emoji_data)
 
 # the folder where the emoji images are stored
 # 表情包图片存放的文件夹
-folder = "HarryPotter"
+folder = "shapkacto"
 
 # the cdn url of the emoji images, end without slash /
 # 表情包JSON的CDN地址，不要以斜杠结尾
